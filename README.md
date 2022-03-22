@@ -1,4 +1,4 @@
 # eldorado_test
 
-#Верстка письма лежит в файле index.html
-#Тут находится ссылка на видеодемонстрацию верстки на ютуб https://youtu.be/LmeuK6_RecE (сначала на десктопе - gmail, yandex, uotlook, далее на телефоне - gmail, yandex, outlook).
+# Верстка письма лежит в файле index.html
+# Тут находится ссылка на видеодемонстрацию верстки на ютуб https://youtu.be/LmeuK6_RecE (сначала на десктопе - gmail, yandex, uotlook, далее на телефоне - gmail, yandex, outlook).
